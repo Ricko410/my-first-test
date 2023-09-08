@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(218, 238, 247);
+}
+#title{
+    font-size: 2.5em;
+    color: rgb(255, 0, 0);
+    font-weight: bolder;
+    
+}
+#list{
+    font-size: 1.5em;
+    color: red;
+}
+#img1{
+    height: 500px;
+    
+    
+}
+header{
+    border: solid 3px;
+    font-size: 1.3em;
+}
+.box{
+    width: 125px;
+    height: 125px;
+    border: 3px solid;
+    margin-left: 1200px;
+    float: right;
+    font-size: 1.2em;
+    overflow: scroll;
+    
+}
+.img{
+    width: 500px;
+    border: 3px solid red   ;
+
+}
+.s{
+    font-size: 1.3em;
+    border-bottom: 3px solid;
+}
+#anchor{
+    color: purple;
+}
+.button{
+    color: darkgreen;
+    margin-left: 1300px;
+}
